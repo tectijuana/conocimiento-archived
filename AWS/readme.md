@@ -1,4 +1,4 @@
-![](rds.png)
+![](imagenes/rds.png)
 
 ## ANGEL OSVALDO HERNANDEZ COSIO
 
