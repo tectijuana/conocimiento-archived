@@ -1,4 +1,4 @@
-![](https://images/IDC-logo.png)
+![](images/IDC-logo.png)
 
 
 
